@@ -1,0 +1,9 @@
+shiny
+matplotlib
+cufflinks
+pandas
+plotly
+faicons
+shinywidgets
+numpy
+pathlib
